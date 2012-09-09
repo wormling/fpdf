@@ -5,7 +5,8 @@
     "keywords": [],
     "homepage": "http://github.com/toooni",
     "license": "BSD-3",
-    "authors": [
+    "version": "1.0",
+	"authors": [
         {
             "name": "Toni Rudolf",
             "email": "toni.rudolf@gmail.com"
