@@ -1,9 +1,9 @@
 {
-    "name": "wormling/fpdf",
+    "name": "toooni/fpdf",
     "type": "library",
     "description": "fpdf vendor for symfony2",
     "keywords": [],
-    "homepage": "http://github.com/wormling",
+    "homepage": "http://github.com/toooni",
     "license": "BSD-3",
     "version": "1.0",
 	"authors": [
