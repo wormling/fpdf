@@ -17,8 +17,7 @@
     },
     "autoload": {
         "psr-0" : {
-            "FPDF_" : "lib/",
-            "FPDF_HTML": "lib/"
+            "FPDF_" : "lib/"
         }
     }
 }
