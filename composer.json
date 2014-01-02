@@ -3,7 +3,7 @@
     "type": "library",
     "description": "fpdf vendor for symfony2",
     "keywords": [],
-    "homepage": "http://github.com/toooni",
+    "homepage": "http://github.com/wormling",
     "license": "BSD-3",
     "version": "1.0",
 	"authors": [
