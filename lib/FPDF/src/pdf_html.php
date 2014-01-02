@@ -114,9 +114,7 @@ class PDF_HTML extends FPDF
                 $this->SetStyle($tag, true);
                 break;
             case 'A':
-                if (isset($attr['HREF'])) {
-                    $this->HREF = $attr['HREF'];
-                }
+                $this->HREF = $attr['HREF'];
                 break;
             case 'IMG':
                 if (isset($attr['SRC']) && (isset($attr['WIDTH']) || isset($attr['HEIGHT']))) {
