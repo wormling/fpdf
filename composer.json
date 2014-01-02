@@ -1,5 +1,5 @@
 {
-    "name": "toooni/fpdf",
+    "name": "wormling/fpdf",
     "type": "library",
     "description": "fpdf vendor for symfony2",
     "keywords": [],
